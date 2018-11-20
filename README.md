@@ -1,6 +1,6 @@
 Build Status
 ==
-[![Build Status](https://dev.azure.com/nio0772/nio/_apis/build/status/norschel.TfsProxyWarmUp)](https://dev.azure.com/nio0772/nio/_build/latest?definitionId=1)
+[![Build Status](https://dev.azure.com/niogithub/GitHub/_apis/build/status/norschel.TfsProxyWarmUp)](https://dev.azure.com/niogithub/GitHub/_build/latest?definitionId=1)
 
 TFS Proxy warm up tool
 ==
