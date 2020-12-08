@@ -1,6 +1,8 @@
 name: MSBuild
 
-on: [push]
+on:
+  push:
+    branches:  norschel-patch-1
 
 env:
   # Path to the solution file relative to the root of the project.
